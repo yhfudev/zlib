@@ -1,0 +1,33 @@
+z_stream	KEYWORD1
+gz_header	KEYWORD1
+zlibVersion	KEYWORD2
+deflate	KEYWORD2
+deflateEnd	KEYWORD2
+inflate	KEYWORD2
+inflateEnd	KEYWORD2
+deflateSetDictionary	KEYWORD2
+deflateGetDictionary	KEYWORD2
+deflateCopy	KEYWORD2
+deflateReset	KEYWORD2
+deflateParams	KEYWORD2
+deflateTune	KEYWORD2
+deflateBound	KEYWORD2
+deflatePrime	KEYWORD2
+deflateSetHeader	KEYWORD2
+inflateSetDictionary	KEYWORD2
+inflateGetDictionary	KEYWORD2
+inflateSync	KEYWORD2
+inflateCopy	KEYWORD2
+inflateReset	KEYWORD2
+inflateReset2	KEYWORD2
+inflatePrime	KEYWORD2
+inflateMark	KEYWORD2
+inflateGetHeader	KEYWORD2
+inflateBack	KEYWORD2
+inflateBackEnd	KEYWORD2
+zlibCompileFlags	KEYWORD2
+compress	KEYWORD2
+compress2	KEYWORD2
+compressBound	KEYWORD2
+
+
